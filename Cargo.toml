@@ -1,6 +1,6 @@
 [package]
 name = "charify"
-version = "0.1.5"
+version = "0.1.6"
 edition = "2021"
 author = "PROMETHIA"
 description = "A simple proc macro to turn its token input into a char, similar to the built-in stringify! macro."
